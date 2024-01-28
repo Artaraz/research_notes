@@ -3,7 +3,7 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "🔎 SoA2024 COURSE WORK 2 U+2013 Vitoria-Gasteiz",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
