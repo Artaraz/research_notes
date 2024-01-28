@@ -4,6 +4,7 @@ tags:
   - researcher
 ---
 # Jason Merchand
+![[content/Research_notes/98_Attachments/jason.png|100]]
 
 #### 💼Current and previous places of work:
 - 2022-present: Lorna Puttkammer Straus Distinguished Service Professor, University of Chicago
