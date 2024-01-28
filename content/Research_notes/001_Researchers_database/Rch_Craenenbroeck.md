@@ -1,10 +1,8 @@
 ---
-title: Example Title
-draft: false
-tags: 
-- example-tag
+status: ongoing
+tags:
+  - researcher
 ---
-The rest of your content lives here. You can use **Markdown** here :)
 # Jeroen van Craenenbroeck (KU Leuven)
 - [PersonalWebpage](http://jeroenvancraenenbroeck.net/) : updated and with all the information in the CV
 #### 💼Current and previous places of work:
