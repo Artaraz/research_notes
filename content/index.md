@@ -12,6 +12,7 @@ The research topic is: **ELLIPSIS**
 - We have created a Mind Map in Canvas : [Mind_Map](https://www.canva.com/design/DAF63-EGuzs/ZawQ0Jmy-4riVyrX-LL7ig/edit)
 - The main researchers "investigated" are:
 	- (Jason Merchand)[[Rch_JMerchand]]
-	- (Craenenbroeck)[[Rch_Craenenbroeck]]
-	- (Temmerman)[[Rch_Temmerman]]
+	- (Jeroen van Craenenbroeck)[[Rch_Craenenbroeck]]
+	- (Tanja Temmerman)[[Rch_Temmerman]]
 	The template used to gather information from researchers is (here)[[Template_00_Researcher]]
+	

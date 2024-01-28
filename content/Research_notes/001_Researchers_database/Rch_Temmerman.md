@@ -1,9 +1,9 @@
 ---
-status: ok
+status: tobedone
 tags:
   - researcher
+  - tobedone
 ---
-
 # Tanja Temmerman
 #### 💼Current and previous places of work:
 -
@@ -19,5 +19,5 @@ tags:
 - [LinkedIn](https://www.linkedin.com/in/tanja-temmerman-8b8ba791/?originalSubdomain=be)
 - _Personal-Webpage?_:
 - _Lab Webpage?_:
-#### To do:
+
 

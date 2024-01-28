@@ -3,7 +3,7 @@ status: ongoing
 tags:
   - researcher
 ---
-# Jeroen van Craenenbroeck (KU Leuven)
+# Jeroen van Craenenbroeck
 - [PersonalWebpage](http://jeroenvancraenenbroeck.net/) : updated and with all the information in the CV
 #### 💼Current and previous places of work:
 Info from personal webpage
