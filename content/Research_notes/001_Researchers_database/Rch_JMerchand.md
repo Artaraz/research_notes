@@ -4,8 +4,8 @@ tags:
   - researcher
 ---
 # Jason Merchand
-![[content/Research_notes/98_Attachments/jason.png|100]]
-
+![[jason.png|100]]
+![[jason.png]]
 #### 💼Current and previous places of work:
 - 2022-present: Lorna Puttkammer Straus Distinguished Service Professor, University of Chicago
 - 01/2018-present: Vice Provost for Academic Affairs
