@@ -1,3 +1,8 @@
+---
+DOI: 
+Author(s): 
+Read:
+---
 ### Title
 Continue reading?
 - [ ] Yes

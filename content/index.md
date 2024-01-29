@@ -15,4 +15,6 @@ The research topic is: **ELLIPSIS**
 	- (Jeroen van Craenenbroeck)[[Rch_Craenenbroeck]]
 	- (Tanja Temmerman)[[Rch_Temmerman]]
 	The template used to gather information from researchers is (here)[[Template_00_Researcher]]
+- One of the main topics is [[Identity]] 
+- A draft of a [[Template_01_Paperreading]] for critical reading papers
 	

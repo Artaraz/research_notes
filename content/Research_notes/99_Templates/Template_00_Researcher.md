@@ -16,7 +16,7 @@ tags:
 #### Collaborations - further activities:
 -
 #### Other information:
-- [LinkedIn](  ): insert Link
+- LinkedIn
 - _Personal-Webpage?_:
 - _Research Group Webpage?_:
 
